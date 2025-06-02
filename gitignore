@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+*.pyc
+__pycache__/
+
+# Build outputs
+dist/
+build/
+*.exe
+*.app
+*.dmg
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+temp/
+*.tmp
+*.temp
+*.bak
+
+# Test coverage
+coverage/
+.nyc_output/
